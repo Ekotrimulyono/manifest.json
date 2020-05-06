@@ -1,0 +1,38 @@
+﻿{
+  "name": "eKovers",
+  "short_name": "EkoTrimulyono",
+  "start_url": "https://www.ekotrimulyono.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#FFAB00",
+  "description": "Eko Trimulyono adalah pemandu segala cara untuk mengetahui tanpa batas!",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-hVKnEIXMvOM/XrL7kwLwZxI/AAAAAAAAEYU/33yQJ-NAD0oYYc7rAN1IhI_e1D7HXNbcACK4BGAsYHg/s48/20200507_005714.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WGsBum6JHFc/XrL7lOBq18I/AAAAAAAAEYY/cb-QCj0mWw43Ul105Ytt8xxEEZTPVaU4ACK4BGAsYHg/s72/20200507_005735.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-TTZyW9b1Ny4/XrL7mz4VjJI/AAAAAAAAEYk/y6CntLMSiuoOYi2fedj9cymHyZraR3aFACK4BGAsYHg/s96/20200507_005754.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bSx4asOUmms/XrL7kZxHQDI/AAAAAAAAEYQ/lXMS8A175AYbfxcxIyrduB2jZvg0qP2xwCK4BGAsYHg/s144/20200507_005805.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8bZoj1w50KE/XrL7mEdnrRI/AAAAAAAAEYg/N8YB7-T2uUkn3nXKoOGnMv1ht3RLDshIACK4BGAsYHg/s168/20200507_005824.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-sDMMWoAJKvg/XrL7nLUYB3I/AAAAAAAAEYo/6KalRkfhU80ad1OxzNYOHR3lINcvkacrACK4BGAsYHg/s192/20200507_005849.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-L_MvpfPjFfc/XrL7luYYhrI/AAAAAAAAEYc/ldvSW_qeHyotxUbkSI-ZnKGoOjf7a4E-wCK4BGAsYHg/s512/20200507_005906.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
